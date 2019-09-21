@@ -1,0 +1,15 @@
+
+/* Class = "IBUILabel"; text = "Scores: 0"; ObjectID = "EkK-q5-OcL"; */
+"EkK-q5-OcL.text" = "Очки: 0";
+
+/* Class = "IBUIButton"; normalTitle = "Close"; ObjectID = "dgx-kV-gLM"; */
+"dgx-kV-gLM.normalTitle" = "Закрыть";
+
+/* Class = "IBUILabel"; text = "Game Over!\\nYour Scores: 0"; ObjectID = "e7l-QM-962"; */
+"e7l-QM-962.text" = "Игра окончена!\\nВаш счет: 0";
+
+/* Class = "IBUILabel"; text = "Level: 1"; ObjectID = "gwO-KF-WY2"; */
+"gwO-KF-WY2.text" = "Уровень: 1";
+
+/* Class = "IBUILabel"; text = "High score: 0"; ObjectID = "k4J-YR-sop"; */
+"k4J-YR-sop.text" = "Рекорд: 0";

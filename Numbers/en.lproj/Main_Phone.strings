@@ -1,0 +1,15 @@
+
+/* Class = "IBUILabel"; text = "Level: 1"; ObjectID = "1AY-t0-Fh5"; */
+"1AY-t0-Fh5.text" = "Level: 1";
+
+/* Class = "IBUILabel"; text = "Scores: 0"; ObjectID = "BrH-zR-S0I"; */
+"BrH-zR-S0I.text" = "Scores: 0";
+
+/* Class = "IBUILabel"; text = "High score: 0"; ObjectID = "IEq-kW-nuJ"; */
+"IEq-kW-nuJ.text" = "High score: 0";
+
+/* Class = "IBUILabel"; text = "Game Over!\\nYour Scores: 0"; ObjectID = "hvD-kk-AMn"; */
+"hvD-kk-AMn.text" = "Game Over!\\nYour Scores: 0";
+
+/* Class = "IBUIButton"; normalTitle = "Close"; ObjectID = "wsq-b9-z4F"; */
+"wsq-b9-z4F.normalTitle" = "Close";

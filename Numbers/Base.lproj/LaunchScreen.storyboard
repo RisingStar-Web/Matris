@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14313.18" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="K76-QW-GT4">
+    <device id="retina5_5" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14283.14"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="BGl-x9-41L">
+            <objects>
+                <viewController id="K76-QW-GT4" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="CgR-Ar-Lx3">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="splash" translatesAutoresizingMaskIntoConstraints="NO" id="lCz-dM-r4P">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                            </imageView>
+                        </subviews>
+                        <constraints>
+                            <constraint firstItem="lCz-dM-r4P" firstAttribute="leading" secondItem="wiP-LO-OZy" secondAttribute="leading" id="3iv-NA-PiL"/>
+                            <constraint firstAttribute="bottom" secondItem="lCz-dM-r4P" secondAttribute="bottom" id="OZm-0K-9le"/>
+                            <constraint firstItem="lCz-dM-r4P" firstAttribute="top" secondItem="CgR-Ar-Lx3" secondAttribute="top" id="U2t-rU-Ln1"/>
+                            <constraint firstItem="wiP-LO-OZy" firstAttribute="trailing" secondItem="lCz-dM-r4P" secondAttribute="trailing" id="Ux6-0R-KuX"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="wiP-LO-OZy"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="if6-WO-BXh" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="118" y="270"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="splash" width="1536" height="2048"/>
+    </resources>
+</document>

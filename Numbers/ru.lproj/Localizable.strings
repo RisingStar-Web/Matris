@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  Numbers
+
+  Created by zlata samarskaya on 13.10.14.
+  Copyright (c) 2014 zlata samarskaya. All rights reserved.
+*/
+
+"Start" = "Старт";
+"Rules" = "Правила";
+"Modes" = "Режимы";
+"Line" = "Линия";
+"2 digits" = "2 цифры";
+"3 digits" = "3 цифры";
+"4 digits" = "4 цифры";
+"High Scores" = "Рекорды";
+"Other Apps" = "Другие приложения";
+
+"Scores" = "Очки";
+"Level" = "Уровень";
+"Game Over!\nYour scores" = "Игра окончена!\nВаш результат";
+"High Score" = "Рекорд";
+
+
+"help_" = "help_ru";
+"help_Pad_" = "help_Pad_ru";
